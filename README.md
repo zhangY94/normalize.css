@@ -1,3 +1,5 @@
+## 该项目是为了重置各个浏览器网站默认样式的，在新项目开始支出可以覆盖默认样式，方便统一各个浏览器
+
 # normalize.css
 
 <a href="https://github.com/necolas/normalize.css"><img
